@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7b43c73d-a752-4015-b2f0-7248900991f5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/Design_Time_Addresses/EncodeService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="EncodeService.xsd" MetadataType="Schema" ID="983064ea-3c6b-43f0-9cf0-98abbbac4e85" SourceId="1" SourceUrl="http://localhost:8080/Design_Time_Addresses/EncodeService?xsd=xsd2" />
+    <MetadataFile FileName="EncodeService1.xsd" MetadataType="Schema" ID="c087220f-7c09-4675-8226-ff84a64b592a" SourceId="1" SourceUrl="http://localhost:8080/Design_Time_Addresses/EncodeService?xsd=xsd1" />
+    <MetadataFile FileName="EncodeService2.xsd" MetadataType="Schema" ID="49f30852-bf41-4bd3-b84b-71fac6e3f82b" SourceId="1" SourceUrl="http://localhost:8080/Design_Time_Addresses/EncodeService?xsd=xsd0" />
+    <MetadataFile FileName="EncodeService.disco" MetadataType="Disco" ID="20d3154b-177f-490b-ae39-126eb1e6a6fa" SourceId="1" SourceUrl="http://localhost:8080/Design_Time_Addresses/EncodeService?disco" />
+    <MetadataFile FileName="EncodeService.wsdl" MetadataType="Wsdl" ID="118c5742-a9de-4772-b5b2-a32a3f757920" SourceId="1" SourceUrl="http://localhost:8080/Design_Time_Addresses/EncodeService?wsdl" />
+    <MetadataFile FileName="EncodeService3.xsd" MetadataType="Schema" ID="1ddd14ea-5c84-40a3-8cba-f790eebcd65c" SourceId="1" SourceUrl="http://localhost:8080/Design_Time_Addresses/EncodeService?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
